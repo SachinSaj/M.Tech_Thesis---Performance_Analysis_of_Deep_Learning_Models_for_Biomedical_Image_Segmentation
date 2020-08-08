@@ -20,4 +20,5 @@ Image segmentation is one of the most common task in computer vision, which part
 
 
 ### The presentation slides is uploaded in this repository. The thesis is not uploaded, as there is plan of publishing the work.
+
 ### ** If any idea is used from this work, kindly let me know / cite my work
