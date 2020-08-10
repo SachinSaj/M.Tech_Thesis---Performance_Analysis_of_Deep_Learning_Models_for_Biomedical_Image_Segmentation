@@ -19,6 +19,8 @@ Image segmentation is one of the most common task in computer vision, which part
 
 
 
-### The presentation slides is uploaded in this repository. The thesis is not uploaded, as there is plan of publishing the work.
+#### The presentation slides is uploaded in this repository. The thesis is not uploaded, as there is plan of publishing the work.
+#### The Thesis is submit to  " Book on Deep Learning for Biomedical Application (Aug 2020) ": Publisher - CRC Press
 
-### ** If any idea is used from this work, kindly let me know / cite my work
+
+##### ** If any idea is used from this work, kindly let me know / cite my work **
