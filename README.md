@@ -1,4 +1,4 @@
-# M.Tech Thesis PPT---Performance Analysis of Deep Learning Models for Biomedical Image Segmentation
+# M.Tech Thesis---Performance Analysis of Deep Learning Models for Biomedical Image Segmentation
 
 ### Abstract
 
